@@ -594,7 +594,7 @@ const Student_progress= (props) => {
    }
    {
     !loading &&  barData.length!==0&&<>
-    <div className='text-center'>Classwise attendance</div>
+    <div className='text-center'>Classwise assignments</div>
     
     </>
    }

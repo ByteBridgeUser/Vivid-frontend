@@ -1171,10 +1171,7 @@ removeStudentFromClass(classId, studentId,JSON.parse(localStorage.getItem("token
         </div>
       </div>
     ))}
-    <button onClick={() => {
-      
-      // Here you can send the selectedStudentNames array to the backend
-    }}>Add</button>
+  
     
 
   </div>
